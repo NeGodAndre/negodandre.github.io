@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>NeGodAndre</title>
-    <link href="https://negorandre.com/feed.xml" rel="self" />
-    <link href="https://negorandre.com" />
+    <link href="https://negodandre.com/feed.xml" rel="self" />
+    <link href="https://negodandre.com" />
     <updated>2023-06-03T16:18:24+07:00</updated>
     <author>
         <name>Andrei Negoda</name>
     </author>
-    <id>https://negorandre.com</id>
+    <id>https://negodandre.com</id>
 
     <entry>
         <title>Анализ Do Not Feed The Monkeys</title>
         <author>
             <name>Andrei Negoda</name>
         </author>
-        <link href="https://negorandre.com/analiz-do-not-feed-the-monkeys.html"/>
-        <id>https://negorandre.com/analiz-do-not-feed-the-monkeys.html</id>
-        <media:content url="https://negorandre.com/media/posts/34/donotfeedthemonkeys_header_m.jpg" medium="image" />
+        <link href="https://negodandre.com/analiz-do-not-feed-the-monkeys.html"/>
+        <id>https://negodandre.com/analiz-do-not-feed-the-monkeys.html</id>
+        <media:content url="https://negodandre.com/media/posts/34/donotfeedthemonkeys_header_m.jpg" medium="image" />
             <category term="Анализ"/>
 
         <updated>2023-06-03T16:03:39+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://negorandre.com/media/posts/34/donotfeedthemonkeys_header_m.jpg" alt="" />
+                        <img src="https://negodandre.com/media/posts/34/donotfeedthemonkeys_header_m.jpg" alt="" />
                     Смысл игры заключается в наблюдении за происходящим за камерами, постепенно покупая новые. У игрока есть потребность во сне и еде, при этом если есть фаст-фуд это снижает здоровье(“здоровая” еда здоровье восстанавливает). Если их игнорировать наступит геймовер. Игра имеет обманчивую систему мониторинга камер. Первоначально создается впечатление,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://negorandre.com/media/posts/34/donotfeedthemonkeys_header_m.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://negodandre.com/media/posts/34/donotfeedthemonkeys_header_m.jpg" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:paragraph {"align":"left"} --></p>
 <p class="has-text-align-left">Смысл игры заключается в наблюдении за происходящим за камерами, постепенно покупая новые.</p>
 <p><!-- /wp:paragraph --></p>
@@ -52,10 +52,10 @@
 <li>Камеры с "зацикленными событиями".</li>
 </ul>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
-<figure class="gallery__item"><a href="https://negorandre.com/media/posts/34/gallery/20201025204759_1-2.jpg" data-size="1920x1080"><img loading="lazy" src="https://negorandre.com/media/posts/34/gallery/20201025204759_1-2-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://negorandre.com/media/posts/34/gallery/20201025211242_1-2.jpg" data-size="1920x1080"><img loading="lazy" src="https://negorandre.com/media/posts/34/gallery/20201025211242_1-2-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://negorandre.com/media/posts/34/gallery/20201025221404_1-2.jpg" data-size="1920x1080"><img loading="lazy" src="https://negorandre.com/media/posts/34/gallery/20201025221404_1-2-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://negorandre.com/media/posts/34/gallery/20201129164021_1-2.jpg" data-size="1920x1080"><img loading="lazy" src="https://negorandre.com/media/posts/34/gallery/20201129164021_1-2-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://negodandre.com/media/posts/34/gallery/20201025204759_1-2.jpg" data-size="1920x1080"><img loading="lazy" src="https://negodandre.com/media/posts/34/gallery/20201025204759_1-2-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://negodandre.com/media/posts/34/gallery/20201025211242_1-2.jpg" data-size="1920x1080"><img loading="lazy" src="https://negodandre.com/media/posts/34/gallery/20201025211242_1-2-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://negodandre.com/media/posts/34/gallery/20201025221404_1-2.jpg" data-size="1920x1080"><img loading="lazy" src="https://negodandre.com/media/posts/34/gallery/20201025221404_1-2-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://negodandre.com/media/posts/34/gallery/20201129164021_1-2.jpg" data-size="1920x1080"><img loading="lazy" src="https://negodandre.com/media/posts/34/gallery/20201129164021_1-2-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
 </div></div>
 <p><!-- /wp:list --></p>
 <p><!-- wp:gallery {"ids":[539,534,533,532],"columns":4,"imageCrop":false,"linkTo":"media"} --></p>
@@ -84,9 +84,9 @@
 <li>На другие предметы, которые можно отправить кому-то из наблюдаемых</li>
 </ul>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://negorandre.com/media/posts/34/gallery/20201129153001_1.jpg" data-size="1920x1080"><img loading="lazy" src="https://negorandre.com/media/posts/34/gallery/20201129153001_1-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://negorandre.com/media/posts/34/gallery/20201129153006_1.jpg" data-size="1920x1080"><img loading="lazy" src="https://negorandre.com/media/posts/34/gallery/20201129153006_1-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://negorandre.com/media/posts/34/gallery/20201129164021_1.jpg" data-size="1920x1080"><img loading="lazy" src="https://negorandre.com/media/posts/34/gallery/20201129164021_1-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://negodandre.com/media/posts/34/gallery/20201129153001_1.jpg" data-size="1920x1080"><img loading="lazy" src="https://negodandre.com/media/posts/34/gallery/20201129153001_1-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://negodandre.com/media/posts/34/gallery/20201129153006_1.jpg" data-size="1920x1080"><img loading="lazy" src="https://negodandre.com/media/posts/34/gallery/20201129153006_1-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://negodandre.com/media/posts/34/gallery/20201129164021_1.jpg" data-size="1920x1080"><img loading="lazy" src="https://negodandre.com/media/posts/34/gallery/20201129164021_1-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
 </div></div>
 <p><!-- /wp:list --></p>
 <p><!-- wp:group --></p>
@@ -120,21 +120,21 @@
         <author>
             <name>Andrei Negoda</name>
         </author>
-        <link href="https://negorandre.com/analiz-control.html"/>
-        <id>https://negorandre.com/analiz-control.html</id>
-        <media:content url="https://negorandre.com/media/posts/33/control.jpg" medium="image" />
+        <link href="https://negodandre.com/analiz-control.html"/>
+        <id>https://negodandre.com/analiz-control.html</id>
+        <media:content url="https://negodandre.com/media/posts/33/control.jpg" medium="image" />
             <category term="Анализ"/>
 
         <updated>2023-06-03T16:12:42+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://negorandre.com/media/posts/33/control.jpg" alt="" />
+                        <img src="https://negodandre.com/media/posts/33/control.jpg" alt="" />
                     В статье представлены потуги в анализе некоторых моментов игры Control от Remedy. Содержит небольшие спойлеры. Лор игры представляет такой мир SCP, только он более структурирован и формализован. Организация более приземленная это всего лишь спец департамент в структуре правительства, которая тем имение не особо ему подчиняется.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://negorandre.com/media/posts/33/control.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://negodandre.com/media/posts/33/control.jpg" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:paragraph --></p>
 <p>В статье представлены потуги в анализе некоторых моментов игры Control от Remedy. Содержит небольшие спойлеры.</p>
 <p><!-- /wp:paragraph --></p>
@@ -183,8 +183,8 @@
 <p><!-- wp:paragraph --></p>
 <p>Для усиления героя или формы оружия используются модификаторы.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://negorandre.com/media/posts/33/gallery/control_mod_0.jpg" data-size="1920x1080"><img loading="lazy" src="https://negorandre.com/media/posts/33/gallery/control_mod_0-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://negorandre.com/media/posts/33/gallery/control_mod_1.jpg" data-size="1920x1080"><img loading="lazy" src="https://negorandre.com/media/posts/33/gallery/control_mod_1-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://negodandre.com/media/posts/33/gallery/control_mod_0.jpg" data-size="1920x1080"><img loading="lazy" src="https://negodandre.com/media/posts/33/gallery/control_mod_0-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://negodandre.com/media/posts/33/gallery/control_mod_1.jpg" data-size="1920x1080"><img loading="lazy" src="https://negodandre.com/media/posts/33/gallery/control_mod_1-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
 </div></div>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":493} --></p>
@@ -193,8 +193,8 @@
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
 <p>Можно получить случайный из убитых врагов, ящиков, выполненных миссий или с помощью крафта.</p>
-<figure class="post__image"><img loading="lazy"  src="https://negorandre.com/media/posts/33/control_modmission-2.jpg" alt="" width="1920" height="1080" sizes="100vw" srcset="https://negorandre.com/media/posts/33/responsive/control_modmission-2-xs.jpg 300w ,https://negorandre.com/media/posts/33/responsive/control_modmission-2-sm.jpg 480w ,https://negorandre.com/media/posts/33/responsive/control_modmission-2-md.jpg 768w ,https://negorandre.com/media/posts/33/responsive/control_modmission-2-lg.jpg 1024w ,https://negorandre.com/media/posts/33/responsive/control_modmission-2-xl.jpg 1360w ,https://negorandre.com/media/posts/33/responsive/control_modmission-2-2xl.jpg 1600w"><figcaption>Пример доп. задания от совета</figcaption></figure>
-<figure class="post__image"><img loading="lazy"  src="https://negorandre.com/media/posts/33/control_modcraft-2.jpg" alt="" width="1920" height="1080" sizes="100vw" srcset="https://negorandre.com/media/posts/33/responsive/control_modcraft-2-xs.jpg 300w ,https://negorandre.com/media/posts/33/responsive/control_modcraft-2-sm.jpg 480w ,https://negorandre.com/media/posts/33/responsive/control_modcraft-2-md.jpg 768w ,https://negorandre.com/media/posts/33/responsive/control_modcraft-2-lg.jpg 1024w ,https://negorandre.com/media/posts/33/responsive/control_modcraft-2-xl.jpg 1360w ,https://negorandre.com/media/posts/33/responsive/control_modcraft-2-2xl.jpg 1600w"><figcaption>Окно крафта мода</figcaption></figure>
+<figure class="post__image"><img loading="lazy"  src="https://negodandre.com/media/posts/33/control_modmission-2.jpg" alt="" width="1920" height="1080" sizes="100vw" srcset="https://negodandre.com/media/posts/33/responsive/control_modmission-2-xs.jpg 300w ,https://negodandre.com/media/posts/33/responsive/control_modmission-2-sm.jpg 480w ,https://negodandre.com/media/posts/33/responsive/control_modmission-2-md.jpg 768w ,https://negodandre.com/media/posts/33/responsive/control_modmission-2-lg.jpg 1024w ,https://negodandre.com/media/posts/33/responsive/control_modmission-2-xl.jpg 1360w ,https://negodandre.com/media/posts/33/responsive/control_modmission-2-2xl.jpg 1600w"><figcaption>Пример доп. задания от совета</figcaption></figure>
+<figure class="post__image"><img loading="lazy"  src="https://negodandre.com/media/posts/33/control_modcraft-2.jpg" alt="" width="1920" height="1080" sizes="100vw" srcset="https://negodandre.com/media/posts/33/responsive/control_modcraft-2-xs.jpg 300w ,https://negodandre.com/media/posts/33/responsive/control_modcraft-2-sm.jpg 480w ,https://negodandre.com/media/posts/33/responsive/control_modcraft-2-md.jpg 768w ,https://negodandre.com/media/posts/33/responsive/control_modcraft-2-lg.jpg 1024w ,https://negodandre.com/media/posts/33/responsive/control_modcraft-2-xl.jpg 1360w ,https://negodandre.com/media/posts/33/responsive/control_modcraft-2-2xl.jpg 1600w"><figcaption>Окно крафта мода</figcaption></figure>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":495} --></p>
 <p><!-- /wp:image --></p>
@@ -205,7 +205,7 @@
 <p><!-- /wp:heading --></p>
 <p><!-- wp:paragraph --></p>
 <p>В игре немного не понятно работает система сейвов. Работает примерно так, ты респамишься на последней точки контроля, но прогресс миссий откатывается на тот момент, который посчитали нужным. Из этого следует несколько непонятных моментов: в одном месте ты продолжаешь после определенной волны врагов, когда ты дошел до действия скрипта, в другой отбиваешься от волн с самого начала, в третьи начинаешь миссию с начала. Еще есть моменты когда ты респамишься и продолжаешь с контрольной точки, а не как обычно, хотя точка контроля находятся за поворотом, это особенно раздражает на фоне обычных ситуациях, когда ты умираешь, ресаешься и бежишь через пол карты, чтоб продолжить миссию.</p>
-<figure class="post__image"><img loading="lazy"  src="https://negorandre.com/media/posts/33/control_point0-2.png" alt="" width="1920" height="1080" sizes="100vw" srcset="https://negorandre.com/media/posts/33/responsive/control_point0-2-xs.png 300w ,https://negorandre.com/media/posts/33/responsive/control_point0-2-sm.png 480w ,https://negorandre.com/media/posts/33/responsive/control_point0-2-md.png 768w ,https://negorandre.com/media/posts/33/responsive/control_point0-2-lg.png 1024w ,https://negorandre.com/media/posts/33/responsive/control_point0-2-xl.png 1360w ,https://negorandre.com/media/posts/33/responsive/control_point0-2-2xl.png 1600w"><figcaption>Точки контроля по факту это чейк-поинты через которые можно перемещаться между ними, в некоторые моменты захват открывает ранее закрытые пути.</figcaption></figure>
+<figure class="post__image"><img loading="lazy"  src="https://negodandre.com/media/posts/33/control_point0-2.png" alt="" width="1920" height="1080" sizes="100vw" srcset="https://negodandre.com/media/posts/33/responsive/control_point0-2-xs.png 300w ,https://negodandre.com/media/posts/33/responsive/control_point0-2-sm.png 480w ,https://negodandre.com/media/posts/33/responsive/control_point0-2-md.png 768w ,https://negodandre.com/media/posts/33/responsive/control_point0-2-lg.png 1024w ,https://negodandre.com/media/posts/33/responsive/control_point0-2-xl.png 1360w ,https://negodandre.com/media/posts/33/responsive/control_point0-2-2xl.png 1600w"><figcaption>Точки контроля по факту это чейк-поинты через которые можно перемещаться между ними, в некоторые моменты захват открывает ранее закрытые пути.</figcaption></figure>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":"483"} --></p>
 <p><!-- /wp:image --></p>
@@ -229,8 +229,8 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Особенно странно выглядят последующие локации, в них такой проблемы нет. </p>
-<figure class="post__image"><img loading="lazy"  src="https://negorandre.com/media/posts/33/control_room0-2.png" alt="" width="1920" height="1080" sizes="100vw" srcset="https://negorandre.com/media/posts/33/responsive/control_room0-2-xs.png 300w ,https://negorandre.com/media/posts/33/responsive/control_room0-2-sm.png 480w ,https://negorandre.com/media/posts/33/responsive/control_room0-2-md.png 768w ,https://negorandre.com/media/posts/33/responsive/control_room0-2-lg.png 1024w ,https://negorandre.com/media/posts/33/responsive/control_room0-2-xl.png 1360w ,https://negorandre.com/media/posts/33/responsive/control_room0-2-2xl.png 1600w"><figcaption>В этой комнате я не раз терялся</figcaption></figure>
-<figure class="post__image"><img loading="lazy"  src="https://negorandre.com/media/posts/33/control_room1-2.png" alt="" width="1920" height="1080" sizes="100vw" srcset="https://negorandre.com/media/posts/33/responsive/control_room1-2-xs.png 300w ,https://negorandre.com/media/posts/33/responsive/control_room1-2-sm.png 480w ,https://negorandre.com/media/posts/33/responsive/control_room1-2-md.png 768w ,https://negorandre.com/media/posts/33/responsive/control_room1-2-lg.png 1024w ,https://negorandre.com/media/posts/33/responsive/control_room1-2-xl.png 1360w ,https://negorandre.com/media/posts/33/responsive/control_room1-2-2xl.png 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://negodandre.com/media/posts/33/control_room0-2.png" alt="" width="1920" height="1080" sizes="100vw" srcset="https://negodandre.com/media/posts/33/responsive/control_room0-2-xs.png 300w ,https://negodandre.com/media/posts/33/responsive/control_room0-2-sm.png 480w ,https://negodandre.com/media/posts/33/responsive/control_room0-2-md.png 768w ,https://negodandre.com/media/posts/33/responsive/control_room0-2-lg.png 1024w ,https://negodandre.com/media/posts/33/responsive/control_room0-2-xl.png 1360w ,https://negodandre.com/media/posts/33/responsive/control_room0-2-2xl.png 1600w"><figcaption>В этой комнате я не раз терялся</figcaption></figure>
+<figure class="post__image"><img loading="lazy"  src="https://negodandre.com/media/posts/33/control_room1-2.png" alt="" width="1920" height="1080" sizes="100vw" srcset="https://negodandre.com/media/posts/33/responsive/control_room1-2-xs.png 300w ,https://negodandre.com/media/posts/33/responsive/control_room1-2-sm.png 480w ,https://negodandre.com/media/posts/33/responsive/control_room1-2-md.png 768w ,https://negodandre.com/media/posts/33/responsive/control_room1-2-lg.png 1024w ,https://negodandre.com/media/posts/33/responsive/control_room1-2-xl.png 1360w ,https://negodandre.com/media/posts/33/responsive/control_room1-2-2xl.png 1600w"></figure>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":498} --></p>
 <p><!-- /wp:image --></p>
@@ -244,7 +244,7 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Очень жаль, что из это не состоит вся игра, да и проходится он довольно быстро.</p>
-<figure class="post__image"><img loading="lazy"  src="https://negorandre.com/media/posts/33/control_dx11-2019-10-04-21-09-14-612-2.jpg" alt="" width="1920" height="1080" sizes="100vw" srcset="https://negorandre.com/media/posts/33/responsive/control_dx11-2019-10-04-21-09-14-612-2-xs.jpg 300w ,https://negorandre.com/media/posts/33/responsive/control_dx11-2019-10-04-21-09-14-612-2-sm.jpg 480w ,https://negorandre.com/media/posts/33/responsive/control_dx11-2019-10-04-21-09-14-612-2-md.jpg 768w ,https://negorandre.com/media/posts/33/responsive/control_dx11-2019-10-04-21-09-14-612-2-lg.jpg 1024w ,https://negorandre.com/media/posts/33/responsive/control_dx11-2019-10-04-21-09-14-612-2-xl.jpg 1360w ,https://negorandre.com/media/posts/33/responsive/control_dx11-2019-10-04-21-09-14-612-2-2xl.jpg 1600w"><figcaption>К сожалению это единственный скриншот, который сделал в лабиринте</figcaption></figure>
+<figure class="post__image"><img loading="lazy"  src="https://negodandre.com/media/posts/33/control_dx11-2019-10-04-21-09-14-612-2.jpg" alt="" width="1920" height="1080" sizes="100vw" srcset="https://negodandre.com/media/posts/33/responsive/control_dx11-2019-10-04-21-09-14-612-2-xs.jpg 300w ,https://negodandre.com/media/posts/33/responsive/control_dx11-2019-10-04-21-09-14-612-2-sm.jpg 480w ,https://negodandre.com/media/posts/33/responsive/control_dx11-2019-10-04-21-09-14-612-2-md.jpg 768w ,https://negodandre.com/media/posts/33/responsive/control_dx11-2019-10-04-21-09-14-612-2-lg.jpg 1024w ,https://negodandre.com/media/posts/33/responsive/control_dx11-2019-10-04-21-09-14-612-2-xl.jpg 1360w ,https://negodandre.com/media/posts/33/responsive/control_dx11-2019-10-04-21-09-14-612-2-2xl.jpg 1600w"><figcaption>К сожалению это единственный скриншот, который сделал в лабиринте</figcaption></figure>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":502} --></p>
 <p><!-- /wp:image --></p>
@@ -265,21 +265,21 @@
         <author>
             <name>Andrei Negoda</name>
         </author>
-        <link href="https://negorandre.com/rassuzhdenie-o-doku-doku-literature-club.html"/>
-        <id>https://negorandre.com/rassuzhdenie-o-doku-doku-literature-club.html</id>
-        <media:content url="https://negorandre.com/media/posts/32/ddlc-logo.jpg" medium="image" />
+        <link href="https://negodandre.com/rassuzhdenie-o-doku-doku-literature-club.html"/>
+        <id>https://negodandre.com/rassuzhdenie-o-doku-doku-literature-club.html</id>
+        <media:content url="https://negodandre.com/media/posts/32/ddlc-logo.jpg" medium="image" />
             <category term="Анализ"/>
 
         <updated>2023-06-03T16:13:52+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://negorandre.com/media/posts/32/ddlc-logo.jpg" alt="" />
+                        <img src="https://negodandre.com/media/posts/32/ddlc-logo.jpg" alt="" />
                     Тут будет спойлеры и раскрытие главной фишки игры. Все обильно приправлено субъективным мнением. Это не полный разбор или анализ, скорее обсасывание тех моментов которые мне не нравятся, без расчета, что игра бесплатная и у авторов не было времени/денег/желание их дорабатывать или это такой художественный прием.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://negorandre.com/media/posts/32/ddlc-logo.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://negodandre.com/media/posts/32/ddlc-logo.jpg" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:paragraph --></p>
 <p>Тут будет спойлеры и раскрытие главной фишки игры. Все обильно приправлено субъективным мнением.</p>
 <p><!-- /wp:paragraph --></p>
@@ -346,7 +346,7 @@
 <p><!-- wp:paragraph --></p>
 <p>Ĵ̶̡̡̰͇̪͎͕͍͇̜̗̲̖̙͋̅̍͌̔̃̕̚͝Ʉ̸̙͇̩̯̣̝͔̋̈́̀͐͘͝͠ร̷̢̛͉͚̦̫͙̱̙͖̗͖̾̅̍̂͠͝₮̵͖̞͙͉̜̜͇̘̪̦͖̭̿̊͂͊͠͝░̶̣̭͖̍̽̋̄́̍̒̐̒͠ͅᗰ̸̥͈̖̍ǫ̴̢̱̼͉͇̬̘̺̟̜͎͛̋̌̔͆̈͘͝⃞̶̣͔̯̠̘͕̱̽͌̒͑̾̀̀̓̅͋́̕͜ ̸̡̞̥̺̝̲̻͓̼̦̞̣͌̇̀̈́͑́̑̍́̈́͑͂̔̚ภ̶̡̠̲͍̥͚̝̘̝͚̞̝̬̅̀͛̒̔̾̈́͝͝ï̸̼̰̅͆̀͌͒̈́̀̿̑̈́̉̏̚͝k̸̲̳̲̲͙̋̒̒͊͌̉͂͂͘̚͠卂̴̢̍̍̈́͐̏̉̑̑͐̾̎͗͛̕̚"</p>
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><figure class="wp-image-556"><img loading="lazy"  src="https://negorandre.com/media/posts/32/nik-1024x576.jpg" alt="" sizes="100vw" srcset="https://negorandre.com/media/posts/32/responsive/nik-1024x576-xs.jpg 300w ,https://negorandre.com/media/posts/32/responsive/nik-1024x576-sm.jpg 480w ,https://negorandre.com/media/posts/32/responsive/nik-1024x576-md.jpg 768w ,https://negorandre.com/media/posts/32/responsive/nik-1024x576-lg.jpg 1024w ,https://negorandre.com/media/posts/32/responsive/nik-1024x576-xl.jpg 1360w ,https://negorandre.com/media/posts/32/responsive/nik-1024x576-2xl.jpg 1600w"></figure></figure>
+<figure class="aligncenter size-large"><figure class="wp-image-556"><img loading="lazy"  src="https://negodandre.com/media/posts/32/nik-1024x576.jpg" alt="" sizes="100vw" srcset="https://negodandre.com/media/posts/32/responsive/nik-1024x576-xs.jpg 300w ,https://negodandre.com/media/posts/32/responsive/nik-1024x576-sm.jpg 480w ,https://negodandre.com/media/posts/32/responsive/nik-1024x576-md.jpg 768w ,https://negodandre.com/media/posts/32/responsive/nik-1024x576-lg.jpg 1024w ,https://negodandre.com/media/posts/32/responsive/nik-1024x576-xl.jpg 1360w ,https://negodandre.com/media/posts/32/responsive/nik-1024x576-2xl.jpg 1600w"></figure></figure>
 </div>
 <p><!-- /wp:paragraph --></p>
             ]]>
@@ -357,8 +357,8 @@
         <author>
             <name>Andrei Negoda</name>
         </author>
-        <link href="https://negorandre.com/perevod-gayda-ohota-za-sokrovishchami-i-karty-sokrovishch-igry-gems-of-war.html"/>
-        <id>https://negorandre.com/perevod-gayda-ohota-za-sokrovishchami-i-karty-sokrovishch-igry-gems-of-war.html</id>
+        <link href="https://negodandre.com/perevod-gayda-ohota-za-sokrovishchami-i-karty-sokrovishch-igry-gems-of-war.html"/>
+        <id>https://negodandre.com/perevod-gayda-ohota-za-sokrovishchami-i-karty-sokrovishch-igry-gems-of-war.html</id>
             <category term="Разное"/>
 
         <updated>2023-06-03T16:16:41+07:00</updated>
@@ -406,7 +406,7 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":418,"align":"center"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter"><figure class="wp-image-418"><img  src="https://negorandre.com/media/posts/31/20190916110615-1024x542.jpg" alt="" sizes="100vw" srcset="https://negorandre.com/media/posts/31/responsive/20190916110615-1024x542-xs.jpg 300w ,https://negorandre.com/media/posts/31/responsive/20190916110615-1024x542-sm.jpg 480w ,https://negorandre.com/media/posts/31/responsive/20190916110615-1024x542-md.jpg 768w ,https://negorandre.com/media/posts/31/responsive/20190916110615-1024x542-lg.jpg 1024w ,https://negorandre.com/media/posts/31/responsive/20190916110615-1024x542-xl.jpg 1360w ,https://negorandre.com/media/posts/31/responsive/20190916110615-1024x542-2xl.jpg 1600w"></figure><figure class="post__image"><img loading="lazy"  src="https://negorandre.com/media/posts/31/20190916110615-2.jpg" alt="" width="1920" height="1017" sizes="100vw" srcset="https://negorandre.com/media/posts/31/responsive/20190916110615-2-xs.jpg 300w ,https://negorandre.com/media/posts/31/responsive/20190916110615-2-sm.jpg 480w ,https://negorandre.com/media/posts/31/responsive/20190916110615-2-md.jpg 768w ,https://negorandre.com/media/posts/31/responsive/20190916110615-2-lg.jpg 1024w ,https://negorandre.com/media/posts/31/responsive/20190916110615-2-xl.jpg 1360w ,https://negorandre.com/media/posts/31/responsive/20190916110615-2-2xl.jpg 1600w"></figure></figure>
+<figure class="aligncenter"><figure class="wp-image-418"><img  src="https://negodandre.com/media/posts/31/20190916110615-1024x542.jpg" alt="" sizes="100vw" srcset="https://negodandre.com/media/posts/31/responsive/20190916110615-1024x542-xs.jpg 300w ,https://negodandre.com/media/posts/31/responsive/20190916110615-1024x542-sm.jpg 480w ,https://negodandre.com/media/posts/31/responsive/20190916110615-1024x542-md.jpg 768w ,https://negodandre.com/media/posts/31/responsive/20190916110615-1024x542-lg.jpg 1024w ,https://negodandre.com/media/posts/31/responsive/20190916110615-1024x542-xl.jpg 1360w ,https://negodandre.com/media/posts/31/responsive/20190916110615-1024x542-2xl.jpg 1600w"></figure><figure class="post__image"><img loading="lazy"  src="https://negodandre.com/media/posts/31/20190916110615-2.jpg" alt="" width="1920" height="1017" sizes="100vw" srcset="https://negodandre.com/media/posts/31/responsive/20190916110615-2-xs.jpg 300w ,https://negodandre.com/media/posts/31/responsive/20190916110615-2-sm.jpg 480w ,https://negodandre.com/media/posts/31/responsive/20190916110615-2-md.jpg 768w ,https://negodandre.com/media/posts/31/responsive/20190916110615-2-lg.jpg 1024w ,https://negodandre.com/media/posts/31/responsive/20190916110615-2-xl.jpg 1360w ,https://negodandre.com/media/posts/31/responsive/20190916110615-2-2xl.jpg 1600w"></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:heading --></p>
@@ -432,7 +432,7 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":419,"align":"center"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter"><figure class="wp-image-419"><img  src="https://negorandre.com/media/posts/31/20190916150032-1024x542.jpg" alt="" sizes="100vw" srcset="https://negorandre.com/media/posts/31/responsive/20190916150032-1024x542-xs.jpg 300w ,https://negorandre.com/media/posts/31/responsive/20190916150032-1024x542-sm.jpg 480w ,https://negorandre.com/media/posts/31/responsive/20190916150032-1024x542-md.jpg 768w ,https://negorandre.com/media/posts/31/responsive/20190916150032-1024x542-lg.jpg 1024w ,https://negorandre.com/media/posts/31/responsive/20190916150032-1024x542-xl.jpg 1360w ,https://negorandre.com/media/posts/31/responsive/20190916150032-1024x542-2xl.jpg 1600w"></figure><figure class="post__image"><img loading="lazy"  src="https://negorandre.com/media/posts/31/20190916150032-2.jpg" alt="" width="1920" height="1017" sizes="100vw" srcset="https://negorandre.com/media/posts/31/responsive/20190916150032-2-xs.jpg 300w ,https://negorandre.com/media/posts/31/responsive/20190916150032-2-sm.jpg 480w ,https://negorandre.com/media/posts/31/responsive/20190916150032-2-md.jpg 768w ,https://negorandre.com/media/posts/31/responsive/20190916150032-2-lg.jpg 1024w ,https://negorandre.com/media/posts/31/responsive/20190916150032-2-xl.jpg 1360w ,https://negorandre.com/media/posts/31/responsive/20190916150032-2-2xl.jpg 1600w"></figure></figure>
+<figure class="aligncenter"><figure class="wp-image-419"><img  src="https://negodandre.com/media/posts/31/20190916150032-1024x542.jpg" alt="" sizes="100vw" srcset="https://negodandre.com/media/posts/31/responsive/20190916150032-1024x542-xs.jpg 300w ,https://negodandre.com/media/posts/31/responsive/20190916150032-1024x542-sm.jpg 480w ,https://negodandre.com/media/posts/31/responsive/20190916150032-1024x542-md.jpg 768w ,https://negodandre.com/media/posts/31/responsive/20190916150032-1024x542-lg.jpg 1024w ,https://negodandre.com/media/posts/31/responsive/20190916150032-1024x542-xl.jpg 1360w ,https://negodandre.com/media/posts/31/responsive/20190916150032-1024x542-2xl.jpg 1600w"></figure><figure class="post__image"><img loading="lazy"  src="https://negodandre.com/media/posts/31/20190916150032-2.jpg" alt="" width="1920" height="1017" sizes="100vw" srcset="https://negodandre.com/media/posts/31/responsive/20190916150032-2-xs.jpg 300w ,https://negodandre.com/media/posts/31/responsive/20190916150032-2-sm.jpg 480w ,https://negodandre.com/media/posts/31/responsive/20190916150032-2-md.jpg 768w ,https://negodandre.com/media/posts/31/responsive/20190916150032-2-lg.jpg 1024w ,https://negodandre.com/media/posts/31/responsive/20190916150032-2-xl.jpg 1360w ,https://negodandre.com/media/posts/31/responsive/20190916150032-2-2xl.jpg 1600w"></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:heading --></p>
@@ -446,7 +446,7 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":420,"align":"center","width":232,"height":717} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter is-resized"><figure class="wp-image-420 align-center"><img loading="lazy"  src="https://negorandre.com/media/posts/31/20190916150035.jpg" alt="" width="232" height="717" sizes="100vw" srcset="https://negorandre.com/media/posts/31/responsive/20190916150035-xs.jpg 300w ,https://negorandre.com/media/posts/31/responsive/20190916150035-sm.jpg 480w ,https://negorandre.com/media/posts/31/responsive/20190916150035-md.jpg 768w ,https://negorandre.com/media/posts/31/responsive/20190916150035-lg.jpg 1024w ,https://negorandre.com/media/posts/31/responsive/20190916150035-xl.jpg 1360w ,https://negorandre.com/media/posts/31/responsive/20190916150035-2xl.jpg 1600w"></figure></figure>
+<figure class="aligncenter is-resized"><figure class="wp-image-420 align-center"><img loading="lazy"  src="https://negodandre.com/media/posts/31/20190916150035.jpg" alt="" width="232" height="717" sizes="100vw" srcset="https://negodandre.com/media/posts/31/responsive/20190916150035-xs.jpg 300w ,https://negodandre.com/media/posts/31/responsive/20190916150035-sm.jpg 480w ,https://negodandre.com/media/posts/31/responsive/20190916150035-md.jpg 768w ,https://negodandre.com/media/posts/31/responsive/20190916150035-lg.jpg 1024w ,https://negodandre.com/media/posts/31/responsive/20190916150035-xl.jpg 1360w ,https://negodandre.com/media/posts/31/responsive/20190916150035-2xl.jpg 1600w"></figure></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:heading --></p>
@@ -488,21 +488,21 @@
         <author>
             <name>Andrei Negoda</name>
         </author>
-        <link href="https://negorandre.com/neudachnye-momenty-v-wargroove.html"/>
-        <id>https://negorandre.com/neudachnye-momenty-v-wargroove.html</id>
-        <media:content url="https://negorandre.com/media/posts/30/wargroove_header.jpg" medium="image" />
+        <link href="https://negodandre.com/neudachnye-momenty-v-wargroove.html"/>
+        <id>https://negodandre.com/neudachnye-momenty-v-wargroove.html</id>
+        <media:content url="https://negodandre.com/media/posts/30/wargroove_header.jpg" medium="image" />
             <category term="Анализ"/>
 
         <updated>2023-06-03T16:18:24+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://negorandre.com/media/posts/30/wargroove_header.jpg" alt="" />
+                        <img src="https://negodandre.com/media/posts/30/wargroove_header.jpg" alt="" />
                     Wargroove — пошаговая тактическая игра, разработанная Chucklefish, является духовным наследником игр типа Advance Wars. Музыка неплоха, но ее мало на каждую фракцию по мелодию которая меняется после смены хода, через некоторое время она поднадоело. В диалогах озвучены только некоторые фразы или только фразы “настроение”, например&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://negorandre.com/media/posts/30/wargroove_header.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://negodandre.com/media/posts/30/wargroove_header.jpg" class="type:primaryImage" alt="" /></p>
                 <p><!-- wp:paragraph --></p>
 <p><em>Wargroove</em> — пошаговая тактическая игра, разработанная Chucklefish, является духовным наследником игр типа <a href="https://en.wikipedia.org/wiki/Advance_Wars">Advance Wars</a>.</p>
 <p><!-- /wp:paragraph --></p>
@@ -535,7 +535,7 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Перед каждой миссий просходит мини диалог персонажей, при том и вражескими, доходит до тупого, слева стоит довольно крутой вражеский герой, который хочет убить нашу героиню и они тупо треплется в пару минут в ПАРУ МЕТРАХ друг от друга, а потом начинается миссия где мы убегаем, а вражеский герой приходит через пару ходов на карту, это очень бьет по восприятию мир.  </p>
-<figure class="post__image"><img loading="lazy"  src="https://negorandre.com/media/posts/30/Wargroove_dialog-3.jpg" alt="" width="1920" height="1080" sizes="100vw" srcset="https://negorandre.com/media/posts/30/responsive/Wargroove_dialog-3-xs.jpg 300w ,https://negorandre.com/media/posts/30/responsive/Wargroove_dialog-3-sm.jpg 480w ,https://negorandre.com/media/posts/30/responsive/Wargroove_dialog-3-md.jpg 768w ,https://negorandre.com/media/posts/30/responsive/Wargroove_dialog-3-lg.jpg 1024w ,https://negorandre.com/media/posts/30/responsive/Wargroove_dialog-3-xl.jpg 1360w ,https://negorandre.com/media/posts/30/responsive/Wargroove_dialog-3-2xl.jpg 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://negodandre.com/media/posts/30/Wargroove_dialog-3.jpg" alt="" width="1920" height="1080" sizes="100vw" srcset="https://negodandre.com/media/posts/30/responsive/Wargroove_dialog-3-xs.jpg 300w ,https://negodandre.com/media/posts/30/responsive/Wargroove_dialog-3-sm.jpg 480w ,https://negodandre.com/media/posts/30/responsive/Wargroove_dialog-3-md.jpg 768w ,https://negodandre.com/media/posts/30/responsive/Wargroove_dialog-3-lg.jpg 1024w ,https://negodandre.com/media/posts/30/responsive/Wargroove_dialog-3-xl.jpg 1360w ,https://negodandre.com/media/posts/30/responsive/Wargroove_dialog-3-2xl.jpg 1600w"></figure>
 <figcaption >В этой миссий мы будем убегать, НО с преследователем мы потреплимся минут 5 перед тем как бежать</figcaption>
 </figure>
 <p><!-- /wp:paragraph --></p>
@@ -546,7 +546,7 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":393,"align":"center"} --></p>
 <div class="wp-block-image">
-<figure class="aligncenter"><figure class="wp-image-393 align-center"><img loading="lazy"  src="https://negorandre.com/media/posts/30/Wargroove_Mercia.png" alt="" sizes="100vw" srcset="https://negorandre.com/media/posts/30/responsive/Wargroove_Mercia-xs.png 300w ,https://negorandre.com/media/posts/30/responsive/Wargroove_Mercia-sm.png 480w ,https://negorandre.com/media/posts/30/responsive/Wargroove_Mercia-md.png 768w ,https://negorandre.com/media/posts/30/responsive/Wargroove_Mercia-lg.png 1024w ,https://negorandre.com/media/posts/30/responsive/Wargroove_Mercia-xl.png 1360w ,https://negorandre.com/media/posts/30/responsive/Wargroove_Mercia-2xl.png 1600w"></figure>
+<figure class="aligncenter"><figure class="wp-image-393 align-center"><img loading="lazy"  src="https://negodandre.com/media/posts/30/Wargroove_Mercia.png" alt="" sizes="100vw" srcset="https://negodandre.com/media/posts/30/responsive/Wargroove_Mercia-xs.png 300w ,https://negodandre.com/media/posts/30/responsive/Wargroove_Mercia-sm.png 480w ,https://negodandre.com/media/posts/30/responsive/Wargroove_Mercia-md.png 768w ,https://negodandre.com/media/posts/30/responsive/Wargroove_Mercia-lg.png 1024w ,https://negodandre.com/media/posts/30/responsive/Wargroove_Mercia-xl.png 1360w ,https://negodandre.com/media/posts/30/responsive/Wargroove_Mercia-2xl.png 1600w"></figure>
 </div>
 <p><!-- /wp:image --></p>
 <p><!-- wp:paragraph --></p>
@@ -572,21 +572,21 @@
         <author>
             <name>Andrei Negoda</name>
         </author>
-        <link href="https://negorandre.com/analiz-cargo-commander.html"/>
-        <id>https://negorandre.com/analiz-cargo-commander.html</id>
-        <media:content url="https://negorandre.com/media/posts/29/Cargo-Commander.jpg" medium="image" />
+        <link href="https://negodandre.com/analiz-cargo-commander.html"/>
+        <id>https://negodandre.com/analiz-cargo-commander.html</id>
+        <media:content url="https://negodandre.com/media/posts/29/Cargo-Commander.jpg" medium="image" />
             <category term="Анализ"/>
 
         <updated>2023-06-03T15:08:11+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://negorandre.com/media/posts/29/Cargo-Commander.jpg" alt="" />
+                        <img src="https://negodandre.com/media/posts/29/Cargo-Commander.jpg" alt="" />
                     Графика. Loly-poly Игра представляет собой платформер. Действие происходит в космосе. Игра ведется от лица космического мусорщика, задача которого обыскать контейнеры до того как она отправятся в черную дыру. Игрок нажимает на рычаг, к модулю игрока притягиваются контейнеры, через некоторое время гравитация отключается и контейнеры отцепляются&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://negorandre.com/media/posts/29/Cargo-Commander.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://negodandre.com/media/posts/29/Cargo-Commander.jpg" class="type:primaryImage" alt="" /></p>
                 <h2>Графика.</h2>
 <p>
 Loly-poly</p>
@@ -613,21 +613,21 @@ Loly-poly</p>
         <author>
             <name>Andrei Negoda</name>
         </author>
-        <link href="https://negorandre.com/mnenie-o-pony-island.html"/>
-        <id>https://negorandre.com/mnenie-o-pony-island.html</id>
-        <media:content url="https://negorandre.com/media/posts/26/ponyisland.jpg" medium="image" />
+        <link href="https://negodandre.com/mnenie-o-pony-island.html"/>
+        <id>https://negodandre.com/mnenie-o-pony-island.html</id>
+        <media:content url="https://negodandre.com/media/posts/26/ponyisland.jpg" medium="image" />
             <category term="Мнения"/>
 
         <updated>2023-06-03T15:08:11+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://negorandre.com/media/posts/26/ponyisland.jpg" alt="" />
+                        <img src="https://negodandre.com/media/posts/26/ponyisland.jpg" alt="" />
                     Pony Island это маленькая игра, в которой предстоит взять роль души в чистилище и не продать ее дьяволу. Главной особенностью игры является взаимодействие игры с игроком, именно с игроком. Она троллит, сует фальшивые окна виндовс (к сожалению весь шарм этого теряется при использовании не английского&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://negorandre.com/media/posts/26/ponyisland.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://negodandre.com/media/posts/26/ponyisland.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Pony Island это маленькая игра, в которой предстоит взять роль души в чистилище и не продать ее дьяволу.</p>
 <div class="post__iframe"><iframe loading="lazy" src="https://www.youtube.com/embed/7vLzSh1UKgs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 <p>Главной особенностью игры является взаимодействие игры с игроком, именно с игроком. Она троллит, сует фальшивые окна виндовс (к сожалению весь шарм этого теряется при использовании не английского языка), стирает грань, где сама игра, а где ее главное меню, буквально делает то что написано.</p>
@@ -647,28 +647,28 @@ Loly-poly</p>
         <author>
             <name>Andrei Negoda</name>
         </author>
-        <link href="https://negorandre.com/razmyshlenie-o-deponia-doomsday.html"/>
-        <id>https://negorandre.com/razmyshlenie-o-deponia-doomsday.html</id>
-        <media:content url="https://negorandre.com/media/posts/25/DeponiaDoomsdayheader.jpg" medium="image" />
+        <link href="https://negodandre.com/razmyshlenie-o-deponia-doomsday.html"/>
+        <id>https://negodandre.com/razmyshlenie-o-deponia-doomsday.html</id>
+        <media:content url="https://negodandre.com/media/posts/25/DeponiaDoomsdayheader.jpg" medium="image" />
             <category term="Мнения"/>
 
         <updated>2023-06-03T15:08:10+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://negorandre.com/media/posts/25/DeponiaDoomsdayheader.jpg" alt="" />
+                        <img src="https://negodandre.com/media/posts/25/DeponiaDoomsdayheader.jpg" alt="" />
                     Внимание это мнение содержит спойлеры!!! Deponia Doomsday приключенческий point-and-click квест, разработанный компанией Daedalic Entertainment. Это одновременно приквел, сиквел и спин-оф происходящий параллельно основной историй. Разработчики вставили отсылки к оригинальной трилогии, не всегда удачно, а иногда и совершено лишние. Например, есть персонаж Хуза который в оригинале&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://negorandre.com/media/posts/25/DeponiaDoomsdayheader.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://negodandre.com/media/posts/25/DeponiaDoomsdayheader.jpg" class="type:primaryImage" alt="" /></p>
                 <p><em><strong>Внимание это мнение содержит спойлеры!!!</strong></em></p>
 <p>Deponia Doomsday приключенческий point-and-click квест, разработанный компанией Daedalic Entertainment. Это одновременно приквел, сиквел и спин-оф происходящий параллельно основной историй. Разработчики вставили отсылки к оригинальной трилогии, не всегда удачно, а иногда и совершено лишние. Например, есть персонаж Хуза который в оригинале в начале каждой главы пел песню, тут он тоже есть, но только в начале.</p>
 <p>Головоломки стали более понятны, чем в прошлых игр серии (не исключаю, что может я разобрался в местной логике), было только пару ситуаций когда было непонятно для чего эти предметы.</p>
 <p>Главный герой серии на протяжении оригинальной трилогии постепенно рос. В начале своего путешествия он был эгоистичной сволочью, которого волновало только он сам, но встреча с Гоал все изменила в итоге в конце третьего эпизода он сильно изменился он пожертвовал собой чтоб остальные спаслись.</p>
 <p>В Deponia Doomsday мы начинаем играть тем же Руфусом из начала оригинальной Deponia, его развитие как персонажа происходит рывками, сейчас он преследует свои цели, но вот произошло не совсем важное событие и он готов рисковать чтоб спасти всех.</p>
 <p>История тесно связана с перемещениями во времени и вот тут есть проблемы. В начале все хорошо, постепенно начинают вылизать пробелы, а под конец истории сценарист полностью забивает на сохранении логики потока времени при перемещении во времени. Нет поймите правильно, история идеально написана, она объясняет большую часть пробелов которые остались с прошлой части и появляются в этой игре. Более того в истории Doomsday и оригинальной трилогии ставит точку, но в игре есть такая “маленькая ниточка” за которую можно зацепится чтобы сделать новую игру во вселенной со старыми персонажами.</p>
-<figure class="alignnone size-full wp-image-294"><img loading="lazy"  src="https://negorandre.com/media/posts/25/20170106204225_1.jpg" alt="" width="1366" height="768"  sizes="100vw" srcset="https://negorandre.com/media/posts/25/responsive/20170106204225_1-xs.jpg 300w ,https://negorandre.com/media/posts/25/responsive/20170106204225_1-sm.jpg 480w ,https://negorandre.com/media/posts/25/responsive/20170106204225_1-md.jpg 768w ,https://negorandre.com/media/posts/25/responsive/20170106204225_1-lg.jpg 1024w ,https://negorandre.com/media/posts/25/responsive/20170106204225_1-xl.jpg 1360w ,https://negorandre.com/media/posts/25/responsive/20170106204225_1-2xl.jpg 1600w"></figure>
+<figure class="alignnone size-full wp-image-294"><img loading="lazy"  src="https://negodandre.com/media/posts/25/20170106204225_1.jpg" alt="" width="1366" height="768"  sizes="100vw" srcset="https://negodandre.com/media/posts/25/responsive/20170106204225_1-xs.jpg 300w ,https://negodandre.com/media/posts/25/responsive/20170106204225_1-sm.jpg 480w ,https://negodandre.com/media/posts/25/responsive/20170106204225_1-md.jpg 768w ,https://negodandre.com/media/posts/25/responsive/20170106204225_1-lg.jpg 1024w ,https://negodandre.com/media/posts/25/responsive/20170106204225_1-xl.jpg 1360w ,https://negodandre.com/media/posts/25/responsive/20170106204225_1-2xl.jpg 1600w"></figure>
 <p>Подводя итог, впечатление от игры осталось положительным, Doomsday это отличная возможность еще раз окунутся в эту вселенную, только надо закрыть глаза на некоторые моменты истории.</p>
 <div class="itanywhere-activator" style="left: 0px; top: 0px; display: none;" title="Google Translator Anywhere"></div>
 <div class="itanywhere-activator" style="left: 0px; top: 547px; display: none;" title="Google Translator Anywhere"></div>
@@ -683,21 +683,21 @@ Loly-poly</p>
         <author>
             <name>Andrei Negoda</name>
         </author>
-        <link href="https://negorandre.com/mnenie-o-runestone-keeper.html"/>
-        <id>https://negorandre.com/mnenie-o-runestone-keeper.html</id>
-        <media:content url="https://negorandre.com/media/posts/24/RunestoneKeeper.jpg" medium="image" />
+        <link href="https://negodandre.com/mnenie-o-runestone-keeper.html"/>
+        <id>https://negodandre.com/mnenie-o-runestone-keeper.html</id>
+        <media:content url="https://negodandre.com/media/posts/24/RunestoneKeeper.jpg" medium="image" />
             <category term="Мнения"/>
 
         <updated>2023-06-03T15:08:10+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://negorandre.com/media/posts/24/RunestoneKeeper.jpg" alt="" />
+                        <img src="https://negodandre.com/media/posts/24/RunestoneKeeper.jpg" alt="" />
                     Runestone Keeper это типичный рогалик, проходим подземелье спускаемся на следующий уровень, попутно убиваем монстров, прокачиваемся. Ролевая система проста и понятна. Музыка приятная, передает “дух мира”, мотивы очень сильны на что-то похоже, это меня очень сильно отвлекает. С GUI проблемы, кнопки не всегда нажимается, видимо, триггеры&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://negorandre.com/media/posts/24/RunestoneKeeper.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://negodandre.com/media/posts/24/RunestoneKeeper.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Runestone Keeper это типичный рогалик, проходим подземелье спускаемся на следующий уровень, попутно убиваем монстров, прокачиваемся.</p>
 <p>Ролевая система проста и понятна.</p>
 <p>Музыка приятная, передает “дух мира”, мотивы очень сильны на что-то похоже, это меня очень сильно отвлекает.</p>
@@ -712,23 +712,23 @@ Loly-poly</p>
         <author>
             <name>Andrei Negoda</name>
         </author>
-        <link href="https://negorandre.com/mnenie-o-remember-me.html"/>
-        <id>https://negorandre.com/mnenie-o-remember-me.html</id>
-        <media:content url="https://negorandre.com/media/posts/23/Remember-Me-00.jpg" medium="image" />
+        <link href="https://negodandre.com/mnenie-o-remember-me.html"/>
+        <id>https://negodandre.com/mnenie-o-remember-me.html</id>
+        <media:content url="https://negodandre.com/media/posts/23/Remember-Me-00.jpg" medium="image" />
             <category term="Мнения"/>
 
         <updated>2023-06-03T15:08:10+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://negorandre.com/media/posts/23/Remember-Me-00.jpg" alt="" />
+                        <img src="https://negodandre.com/media/posts/23/Remember-Me-00.jpg" alt="" />
                     С Remember me сложно, у нее очень классный сюжет, который держит, хорошие сюжетные повороты, за ним интересно наблюдать, главной героине переживаешь, но очень бесящая боевка. Видно, что брали за основу боевку из бэтмена и решили разбавить “комбами”. Получилось не очень, не чувствуется такая же простота&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://negorandre.com/media/posts/23/Remember-Me-00.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://negodandre.com/media/posts/23/Remember-Me-00.jpg" class="type:primaryImage" alt="" /></p>
                 <p>С Remember me сложно, у нее очень классный сюжет, который держит, хорошие сюжетные повороты, за ним интересно наблюдать, главной героине переживаешь, но очень бесящая боевка. Видно, что брали за основу боевку из бэтмена и решили разбавить “комбами”. Получилось не очень, не чувствуется такая же простота и контроль.</p>
-<figure class="alignnone size-large wp-image-282"><img loading="lazy"  src="https://negorandre.com/media/posts/23/RememberMe1-1024x614.jpg" alt="rememberme1" width="604" height="362"  sizes="100vw" srcset="https://negorandre.com/media/posts/23/responsive/RememberMe1-1024x614-xs.jpg 300w ,https://negorandre.com/media/posts/23/responsive/RememberMe1-1024x614-sm.jpg 480w ,https://negorandre.com/media/posts/23/responsive/RememberMe1-1024x614-md.jpg 768w ,https://negorandre.com/media/posts/23/responsive/RememberMe1-1024x614-lg.jpg 1024w ,https://negorandre.com/media/posts/23/responsive/RememberMe1-1024x614-xl.jpg 1360w ,https://negorandre.com/media/posts/23/responsive/RememberMe1-1024x614-2xl.jpg 1600w"></figure>
+<figure class="alignnone size-large wp-image-282"><img loading="lazy"  src="https://negodandre.com/media/posts/23/RememberMe1-1024x614.jpg" alt="rememberme1" width="604" height="362"  sizes="100vw" srcset="https://negodandre.com/media/posts/23/responsive/RememberMe1-1024x614-xs.jpg 300w ,https://negodandre.com/media/posts/23/responsive/RememberMe1-1024x614-sm.jpg 480w ,https://negodandre.com/media/posts/23/responsive/RememberMe1-1024x614-md.jpg 768w ,https://negodandre.com/media/posts/23/responsive/RememberMe1-1024x614-lg.jpg 1024w ,https://negodandre.com/media/posts/23/responsive/RememberMe1-1024x614-xl.jpg 1360w ,https://negodandre.com/media/posts/23/responsive/RememberMe1-1024x614-2xl.jpg 1600w"></figure>
 <p>Битвы с боссами разнообразны и интересные, они могут бесить только из-за управления.</p>
 <p>Есть пара промахов которые не влияют на игру, но могут броситься в глаза. Это как ограничивают игрока, на одном уровне это могут быть ящики, выглядящие так, что через них можно перепрыгнуть в другом видно, что там нельзя пройти например толпа людей.</p>
 <p>Играть стоить только в одном случае, если вам интересны истории в играх, если важен экшен то она не для вас.</p>

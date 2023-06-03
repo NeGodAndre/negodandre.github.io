@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://negorandre.com/sitemap.xml
+Sitemap: https://negodandre.com/sitemap.xml
